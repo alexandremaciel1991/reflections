@@ -1,0 +1,6 @@
+GITHUB
+
+GIT REMOTE
+GIT REMOTE ADD NOMEDOREMOTO LINKDOREPOSITORIO cria um repositorio remoto
+GIT REMOTE -V aparece a url de onde extraiu os dados como também onde colocou os dados
+GIT PUSH REMOTOPARAONDEENVIAR NOMELOCALDABRANCH envia as alterações para o remoto
