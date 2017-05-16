@@ -1,0 +1,2 @@
+Adicionando novo documento
+Criando arquivo para ver como funciona o GIT PULL
